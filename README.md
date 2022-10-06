@@ -105,7 +105,7 @@ PDFView(
 
 ### Android
 
-[AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)
+[AndroidPdfViewer](https://github.com/mhiew/AndroidPdfViewer)
 
 ### iOS (only support> 11.0)
 
@@ -113,7 +113,7 @@ PDFView(
 
 # Future plans
 
-- Replace barteksc/AndroidPdfViewer with MuPDF or Android Native PDF Renderer.
+- Replace mhiew/AndroidPdfViewer with MuPDF or Android Native PDF Renderer.
 - Improve documentation
 - Support other platforms such as MacOS, Windows, Linux and Web
 - Add search functionality

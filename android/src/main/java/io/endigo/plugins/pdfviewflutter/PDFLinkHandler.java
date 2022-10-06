@@ -4,9 +4,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
-import com.github.barteksc.pdfviewer.PDFView;
-import com.github.barteksc.pdfviewer.link.LinkHandler;
-import com.github.barteksc.pdfviewer.model.LinkTapEvent;
+import com.github.mhiew.pdfviewer.PDFView;
+import com.github.mhiew.pdfviewer.link.LinkHandler;
+import com.github.mhiew.pdfviewer.model.LinkTapEvent;
 
 import io.flutter.plugin.common.MethodChannel;
 
